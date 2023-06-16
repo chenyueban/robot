@@ -1,0 +1,9 @@
+{
+  "git": {
+    "tagName": "v${version}",
+    "commitMessage": "chore: release ${version}"
+  },
+  "npm": {
+    "publish": false
+  }
+}

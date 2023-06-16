@@ -1,0 +1,15 @@
+{
+  "name": "@chenyueban/robot-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "robot.darwin-universal.node",
+  "files": [
+    "robot.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
